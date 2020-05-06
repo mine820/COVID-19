@@ -40,3 +40,6 @@ CSVフォーマットで、文字コードはUTF-8です。
 ## サンプル
 データを使用した解析のサンプルコードです。
 Jupyter Notebookになってます。
+
+![要約統計量](images/image1.png)
+![ヒストグラム（年齢）](images/image2.png)
