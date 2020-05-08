@@ -45,5 +45,7 @@ CSVフォーマットで、文字コードはUTF-8です。
 データを使用した解析のサンプルコードです。
 Jupyter Notebookになってます。
 
-![要約統計量](images/image1.png)
-![ヒストグラム（年齢）](images/image2.png)
+![データ](images/image1.png)
+![要約統計量](images/image2.png)
+![ヒストグラム（年齢）](images/image3.png)
+![検査確定日](images/image4.png)
